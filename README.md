@@ -12,4 +12,4 @@
 
   * part 1 : [Creating a blockchain with Javascript](https://qpakzk.github.io/software/2018/02/10/Blockchain-Building-a-blockchain-with-Javascript-Part-1/)
   * part 2 : [Implementing Proof-Of-Work(POW) in Javascript](https://qpakzk.github.io/software/2018/02/10/Blockchain-Building-a-blockchain-with-Javascript-Part-2/)
-  * part 3 : Miner Rewards & transaction - Blockchain in Javascript.
+  * part 3 : [Miner Rewards & transaction - Blockchain in Javascript](https://qpakzk.github.io/software/2018/02/10/Blockchain-Building-a-blockchain-with-Javascript-Part-3/)
