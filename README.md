@@ -1,4 +1,4 @@
-# JS-Blockchain
+# js-blockchain
 
   This repository is Blockchain Development  with Javascript. I reference [Savjee youtube](https://www.youtube.com/channel/UCnxrdFPXJMeHru_b4Q_vTPQ) : Building a blockchain with Javascript.
 
